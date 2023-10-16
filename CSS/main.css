@@ -67,6 +67,13 @@ section {
     padding: 20px;
     text-align: center;
 }
+.veterinariosyperrito {
+    background-image: url(img/veterinariosyperrito.jpg);
+    background-size: cover; /* Otra opción: contain */
+    background-repeat: no-repeat;
+    background-position: center; /* Ajustar la posición a la parte cent*/
+    opacity: 0.5;
+}
 .imagen-fondo {
     background-image: url(img/hermosogatito.jpg);
     background-size: cover; /* Otra opción: contain */
